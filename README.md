@@ -40,7 +40,7 @@ plain-language summary.
 |------------|-------------------------------------------|
 | Model      | scikit-learn `RandomForestClassifier`      |
 | Backend    | FastAPI (Python)                           |
-| Frontend   | Jinja2 templates, HTML, CSS, JavaScript    |
+| Frontend   |  HTML, CSS, JavaScript    |
 
 
 ---
