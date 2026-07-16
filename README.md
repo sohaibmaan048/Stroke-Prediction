@@ -16,7 +16,7 @@ plain-language summary.
 
 ## 🚀 Live Demo
 
-**[Try NeuroGuard →](#)** *(WORKING ON DEPLOYMENT!!!!!!!)*
+**[Try NeuroGuard →](#)** *https://stroke-prediction-mghj.onrender.com*
 
 ---
 
